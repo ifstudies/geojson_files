@@ -1,4 +1,4 @@
-let state_geojson = {
+var state_geojson = {
 "type": "FeatureCollection",
 "name": "us_states_simplified_2023_tv_0.05_condensed",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
